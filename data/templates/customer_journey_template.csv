@@ -1,0 +1,2 @@
+customer_id,touchpoint_timestamp,campaign_id,channel,touchpoint_type
+CUST-00001,2025-02-14 10:30:00,CMP-001,Google Ads,Ad Click

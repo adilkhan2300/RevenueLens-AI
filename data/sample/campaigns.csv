@@ -1,0 +1,15 @@
+campaign_id,campaign_name,channel,campaign_objective,start_date,end_date,impressions,clicks,spend
+CMP-001,Google Search - High Intent BOFU,Google Ads,Conversion,2025-01-01,2025-06-30,145000,11600,29000.0
+CMP-002,Google Display - Remarketing,Google Ads,Retargeting,2025-01-16,2025-06-30,320000,6400,12800.0
+CMP-003,Meta - Broad Lead Gen Form,Meta Ads,Lead Generation,2025-01-01,2025-06-30,850000,25500,38250.0
+CMP-004,Meta - Video Testimonials,Meta Ads,Awareness,2025-01-31,2025-06-30,420000,8400,16800.0
+CMP-005,LinkedIn - Enterprise Decision Makers,LinkedIn Ads,Lead Generation,2025-01-01,2025-06-30,95000,3800,34200.0
+CMP-006,LinkedIn - Sponsored Thought Leadership,LinkedIn Ads,Engagement,2025-02-15,2025-06-30,130000,3900,19500.0
+CMP-007,Email - Product Launch Sequence,Email Marketing,Conversion,2025-01-11,2025-06-30,65000,9750,4800.0
+CMP-008,Email - Re-engagement Campaign,Email Marketing,Retention,2025-03-02,2025-06-30,48000,4800,2400.0
+CMP-009,Organic Search - Solution Pillar Pages,Organic Search,Inbound,2025-01-01,2025-06-30,280000,14000,12000.0
+CMP-010,Organic Search - High Ranking Comparison,Organic Search,Inbound,2025-01-01,2025-06-30,190000,11400,8500.0
+CMP-011,Content - Industry Benchmark Report,Content Marketing,Lead Generation,2025-01-21,2025-06-30,160000,8000,11200.0
+CMP-012,Content - Technical Whitepaper Series,Content Marketing,Lead Generation,2025-02-10,2025-06-30,110000,4400,8800.0
+CMP-013,Referral - Agency Partner Program,Referral,Partner,2025-01-01,2025-06-30,35000,3150,15750.0
+CMP-014,Referral - Customer Advocate Rewards,Referral,Advocacy,2025-01-31,2025-06-30,22000,2200,6600.0

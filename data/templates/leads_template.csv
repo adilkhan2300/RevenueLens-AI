@@ -1,0 +1,2 @@
+lead_id,customer_id,campaign_id,lead_date,lead_source,lead_score,qualification_status,industry,company_size,follow_up_time_hours,engagement_level,num_interactions,is_converted
+LED-00001,CUST-00001,CMP-001,2025-02-15,Google Ads,75,SQL,Technology & SaaS,51-200,2.5,High,4,1

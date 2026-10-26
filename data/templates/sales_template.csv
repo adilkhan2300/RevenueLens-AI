@@ -1,0 +1,2 @@
+customer_id,opportunity_id,opportunity_date,sales_stage,conversion_status,close_date,revenue
+CUST-00001,OPP-00001,2025-02-16,Closed-Won,Won,2025-03-10,15000.0
